@@ -1,7 +1,7 @@
 # IDL as Markdown
 
 ##  Table of Contents
-1. [Introduction](#introduction)
+1. [Contents](#contents)
 1. [Why Markdown?](#why-markdown)
 1. [Getting started](#getting-started)
     1. [Requirements](#requirements)
@@ -19,6 +19,7 @@ defining lab content for an Integrated Digital Lab (IDL) in Markdown format.
 
 There are many reasons why using Markdown as a lab content definition format is
 beneficial:
+
 1. **Readability** - A Markdown IDL document reads much like a lab manual would.
 1. **Simplicity** - Markdown is structured text without tags. Editing Markdown
    files is much easier and faster than editing lab content inside of a user
