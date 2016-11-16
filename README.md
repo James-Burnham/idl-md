@@ -52,14 +52,55 @@ following:
 - [git](https://git-scm.com/downloads) installed on your local computer
 - (Optional) [GitHub Desktop](https://desktop.github.com/) installed on your
 local computer
+- a markdown editor (see below)
+
+### Markdown editors
+It is very useful when editing a Markdown document to use an editor that has
+native support for Markdown. There are editors available for Windows, macOS,
+Linux, iOS, and Android. Some editors are commercial, others free. There are
+also editors on the web. Which editor you use is up to you. I have listed a few
+noteworthy editors below. The list is by no means comprehensive nor does it try
+to highlight the best editors. It simply gives you a place to start looking.
+
+#### Cross platform (some combination of Windows, macOS, and Linux)
+- Atom (works on Windows, macOS, and Linux)
+- Visual Studio Code (works on Windows, macOS, and Linux)
+- Sublime (works on Windows, macOS, and Linux)
+- Remarkable (works on Windows and Linux)
+- Haroopad (works on Windows, macOS and Linux)
+
+#### for Windows
+- MarkdownPad
+- Notepad++ (with a plugin)
+- MarkPad
+
+#### for macOS/iOS
+- Write
+- Ulysses
+- MacDown (macOS only)
+
+#### for Linux
+- GNU Emacs
+- ReText
+- UberWriter
+
+#### for Android
+- JotterPad
+- iA Writer
+- MarkdownX
 
 ### Creating a new IDL as Markdown repository
 When you have all of the requirements in place, the easiest way to get started
 with a new IDL as markdown project is to clone the
-[IDL as Markdown](https://github.com/LearnOnDemandSystems/idl-md-sample) sample
+[IDL as Markdown Template](https://github.com/LearnOnDemandSystems/idl-md-template)
 repository. This will create a new repository with a template idl.md file in
 place that is full of step-by-step TODO comments to help you build the idl.md
 file for your lab.
+
+Another useful resource is the
+[IDL as Markdown Sample](https://github.com/LearnOnDemandSystems/idl-md-sample)
+repository. This repository contains a complete example illustrating what the
+finished product might look like. 
 
 *If git, GitHub, and cloning a repository are new concepts to you, explore the
 links in the [Resources](#resources-for-learning-more-about-git-and-github)
@@ -72,6 +113,8 @@ on the IDL right away by modifying idl.md in your own repository as per the
 
 ### Resources for learning more about git and GitHub
 
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+(a GitHub Guide to learning Markdown)
 - [Git Tutorial](https://try.github.io/) (a 25 minute online sandbox where you
 can learn Git)
 - [Pro Git](https://git-scm.com/book/en/v2) (a free, open-source book -- highly

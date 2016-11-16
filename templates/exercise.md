@@ -1,4 +1,5 @@
 <hr>
+<hr>
 
 # New Exercise
 
@@ -28,6 +29,8 @@ comment.
 IntroductionUri = 
 CompletionUri = 
 ```
+
+<hr>
 
 ### New Task
 
