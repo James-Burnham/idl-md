@@ -5,6 +5,7 @@
 1. [Why Markdown?](#why-markdown)
 1. [Getting started](#getting-started)
     1. [Requirements](#requirements)
+    1. [Markdown editors](#markdown-editors)
     1. [Creating a new IDL as Markdown repository](#creating-a-new-idl-as-markdown-repository)
     1. [Resources for learning more about git and GitHub](#resources-for-learning-more-about-git-and-github)
 
