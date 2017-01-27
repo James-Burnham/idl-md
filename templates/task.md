@@ -32,8 +32,8 @@ and the KNOWLEDGE heading before it.
 #### :camera: SCREENSHOT
 
 <!--
-TASK TODO #4: In the code block below, set the Uri property to the uri of a
-screenshot you want to link to this task. This can be a relative (within
+TASK TODO #4: In the quoted properties below, set the Uri property to the uri of
+a screenshot you want to link to this task. This can be a relative (within
 GitHub) or absolute uri. Then set the ShowAutomatically property to one of the
 following:
 - No, if you only want the screenshot to appear when the student clicks on the
@@ -46,19 +46,18 @@ student advances or returns to this task.
 Once you have set the screenshot properties, delete this entire comment.
 
 If you do not have a screenshot to associate with this task, delete the
-SCREENSHOT heading above this comment as well as this comment and the code
-block below it.
+SCREENSHOT heading above this comment as well as this comment and the quote
+below it.
 -->  
-```
-Uri = 
-ShowAutomatically = No|Once|EveryTime
-```
+>LODSProperties
+>* Uri = 
+>* ShowAutomatically = No|Once|EveryTime
 
 #### :movie_camera: VIDEO
 
 <!--
-TASK TODO #5: In the code block below, set the Uri property to the uri of a
-video you want to link to this task. This can be a relative (withing GitHub)
+TASK TODO #5: In the quoted properties below, set the Uri property to the uri of
+a video you want to link to this task. This can be a relative (withing GitHub)
 or absolute uri. Then set the ShowAutomatically property to one of the
 following:
 - No, if you only want the video to appear when the student clicks on the video
@@ -74,13 +73,12 @@ otherwise, set it to false.
 Once you have set the video properties, delete this entire comment.
 
 If you do not have a video to associate with this task, delete the VIDEO
-heading above this comment as well as this comment and the code block below it.
+heading above this comment as well as this comment and the quote below it.
 -->
-```
-Uri = 
-ShowAutomatically = No|Once|EveryTime
-ShowInDialog = true|false
-```
+>LODSProperties
+>* Uri = 
+>* ShowAutomatically = No|Once|EveryTime
+>* ShowInDialog = true|false
 
 #### :calling: COMMAND TypeText|PowerShell|PowerShellWithUI|Shell|ShellWithUI
 
@@ -106,7 +104,7 @@ heading above this comment as well as this comment and the code block below it.
 #### :computer: ACTIONS
 
 <!--
-TASK TODO #7: In the code block below, set the VM property to one of the
+TASK TODO #7: In the quoted properties below, set the VM property to one of the
 following:
 - NoAction, if you don't want to change the active VM in the lab;
 - VNName, if you want to select a different VM in the lab as the active VM
@@ -134,14 +132,13 @@ active VM.
 Once you have configured the actions for the task, delete this entire comment.
 
 If you do not want to take any of these actions with this task, delete the
-ACTIONS heading above this comment as well as this comment and the code block
-below it.
+ACTIONS heading above this comment as well as this comment and the quote below
+it.
 -->
-```
-VM = NoAction|VMName
-FloppyDrive = NoAction|FloppyName|Eject
-DvdDrive = NoAction|DvdName|Eject
-```
+>LODSProperties
+>* VM = NoAction|VMName
+>* FloppyDrive = NoAction|FloppyName|Eject
+>* DvdDrive = NoAction|DvdName|Eject
 
 <!--
 NEW TASK TODO #1: If you want to add another task, copy and paste the contents of
