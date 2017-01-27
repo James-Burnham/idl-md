@@ -1,4 +1,4 @@
-# IDL as Markdown
+﻿# IDL as Markdown
 
 ##  Table of Contents
 1. [Contents](#contents)
@@ -32,7 +32,7 @@ beneficial:
    the preferred method of documentation on GitHub), and with GitHub comes
    revision control, support for multiple authors, pull requests, forks/clones,
    etc.
-1. **Broad adoption** - Markdown is being adopted all over the place – from
+1. **Broad adoption** - Markdown is being adopted all over the place â€“ from
    creation of documentation at Microsoft (MSDN docs, PowerShell Help files,
    etc.) to defining blog content/pages (Wordpress, Ghost, others) to Slack
    channels (you can use Markdown directly inside of Slack messages), and much,
