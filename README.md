@@ -94,9 +94,9 @@ to highlight the best editors. It simply gives you a place to start looking.
 When you have all of the requirements in place, the easiest way to get started
 with a new IDL as markdown project is to clone the
 [IDL as Markdown Template](https://github.com/LearnOnDemandSystems/idl-md-template)
-repository. This will create a new repository with a template idl.md file in
-place that is full of step-by-step TODO comments to help you build the idl.md
-file for your lab.
+repository. This will create a new repository with a template content.md file in
+place that is full of step-by-step TODO comments to help you build the
+content.md file for your lab.
 
 Another useful resource is the
 [IDL as Markdown Sample](https://github.com/LearnOnDemandSystems/idl-md-sample)
@@ -109,7 +109,7 @@ section below. Those resources will be very useful as you learn how to use
 these highly useful tools.*
 
 Once you have the IDL as Markdown sample repository cloned, you can start work
-on the IDL right away by modifying idl.md in your own repository as per the
+on the IDL right away by modifying content.md in your own repository as per the
 *TODO* instructions in the comments within that file.
 
 ### Resources for learning more about git and GitHub
