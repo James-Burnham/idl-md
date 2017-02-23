@@ -32,6 +32,9 @@ beneficial:
    the preferred method of documentation on GitHub), and with GitHub comes
    revision control, support for multiple authors, pull requests, forks/clones,
    etc.
+1. **Multi-author support** - By using Markdown inside of services like GitHub
+   (or similar services like Visual Studio Online), you can support multiple
+   content authors contributing to the content for one lab at the same time.
 1. **Broad adoption** - Markdown is being adopted all over the place â€“ from
    creation of documentation at Microsoft (MSDN docs, PowerShell Help files,
    etc.) to defining blog content/pages (Wordpress, Ghost, others) to Slack

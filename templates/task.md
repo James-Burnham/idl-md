@@ -98,7 +98,9 @@ If you do not have a command to associate with this task, delete the COMMAND
 heading above this comment as well as this comment and the code block below it.
 -->
 ```PowerShell
-# Replace this line with the PowerShell command, shell command, or text to type
+# Replace this line with the PowerShell command, shell command, or text to type.
+# If this command is anything other than PowerShell or PowerShellWithUI, remove
+# the "PowerShell" label at the beginning of this code block.
 ```
 
 #### :computer: ACTIONS
@@ -142,6 +144,7 @@ it.
 
 <!--
 NEW TASK TODO #1: If you want to add another task, copy and paste the contents of
-the task template over this comment. You can find the task template here:
-https://github.com/LearnOnDemandSystems/idl-md/blob/master/templates/task.md
+the task template you want to use over this comment. You can find the task
+templates here:
+https://github.com/LearnOnDemandSystems/idl-md/blob/master/templates
 -->

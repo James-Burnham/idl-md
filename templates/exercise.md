@@ -4,20 +4,26 @@
 
 <!--
 EXERCISE TODO #1: Replace "New Exercise" in the heading above with the name
-of your new exercise and replace this comment with the introduction message
-for that exercise. This message can span multiple paragraphs if necessary.
+of your new exercise.
+-->
+
+## INTRODUCTION MESSAGE
+
+<!--
+EXERCISE TODO #2: Replace this comment with the introduction message for this
+exercise. This message can span multiple paragraphs if necessary.
 -->
 
 ## COMPLETION MESSAGE
 
 <!--
-EXERCISE TODO #2: Replace this comment with a completion message for this
+EXERCISE TODO #3: Replace this comment with a completion message for this
 exercise, or delete the COMPLETION MESSAGE heading and this comment if you do
 not need a completion message.
 -->
 
 <!--
-EXERCISE TODO #3: Set the IntroductionUri and CompletionUri values in the quoted
+EXERCISE TODO #4: Set the IntroductionUri and CompletionUri values in the quoted
 properties below. Both IntroductionUri and CompletionUri may be relative (within
 GitHub) or absolute uris. Remove any values that you don't need, removing the
 entire quote if you don't need any of the values. Then delete this comment.
@@ -127,7 +133,9 @@ If you do not have a command to associate with this task, delete the COMMAND
 heading above this comment as well as this comment and the code block below it.
 -->
 ```PowerShell
-# Replace this line with the PowerShell command, shell command, or text to type
+# Replace this line with the PowerShell command, shell command, or text to type.
+# If this command is anything other than PowerShell or PowerShellWithUI, remove
+# the "PowerShell" label at the beginning of this code block.
 ```
 
 #### :computer: ACTIONS
@@ -171,13 +179,14 @@ it.
 
 <!--
 NEW TASK TODO #1: If you want to add another task, copy and paste the contents of
-the task template over this comment. You can find the task template here:
-https://github.com/LearnOnDemandSystems/idl-md/blob/master/templates/task.md
+the task template you want to use over this comment. You can find the task
+templates here:
+https://github.com/LearnOnDemandSystems/idl-md/blob/master/templates
 -->
 
 <!--
 NEW EXERCISE TODO #1: If you want to add another exercise, copy and paste the
-contents of the exercise template over this comment. You can find the exercise
-template here:
-https://github.com/LearnOnDemandSystems/idl-md/blob/master/templates/exercise.md
+contents of the exercise template you want to use over this comment. You can find
+the exercise templates here:
+https://github.com/LearnOnDemandSystems/idl-md/blob/master/templates
 -->
