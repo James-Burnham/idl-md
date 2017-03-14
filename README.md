@@ -1,4 +1,4 @@
-﻿# IDL as Markdown
+# IDL as Markdown
 
 ##  Table of Contents
 1. [Contents](#contents)
