@@ -53,9 +53,11 @@ beneficial:
 Before you get started creating a new IDL as Markdown lab, you will need the
 following:
 - a [new GitHub account](https://github.com/join) if you don't have one already
+
+Also, if you want offline editing support, you will need:
 - [git](https://git-scm.com/downloads) installed on your local computer
 - (Optional) [GitHub Desktop](https://desktop.github.com/) installed on your
-local computer
+local computer if you want to work with GitHub in a UI
 - a markdown editor (see below)
 
 ### Markdown editors
