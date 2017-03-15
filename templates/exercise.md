@@ -7,23 +7,8 @@ EXERCISE TODO #1: Replace "New Exercise" in the heading above with the name
 of your new exercise.
 -->
 
-## INTRODUCTION MESSAGE
-
 <!--
-EXERCISE TODO #2: Replace this comment with the introduction message for this
-exercise. This message can span multiple paragraphs if necessary.
--->
-
-## COMPLETION MESSAGE
-
-<!--
-EXERCISE TODO #3: Replace this comment with a completion message for this
-exercise, or delete the COMPLETION MESSAGE heading and this comment if you do
-not need a completion message.
--->
-
-<!--
-EXERCISE TODO #4: Set the IntroductionUri and CompletionUri values in the quoted
+EXERCISE TODO #2: Set the IntroductionUri and CompletionUri values in the quoted
 properties below. Both IntroductionUri and CompletionUri may be relative (within
 GitHub) or absolute uris. Remove any values that you don't need, removing the
 entire quote if you don't need any of the values. Then delete this comment.
@@ -32,6 +17,21 @@ entire quote if you don't need any of the values. Then delete this comment.
 >LODSProperties
 >* IntroductionUri = 
 >* CompletionUri = 
+
+## INTRODUCTION MESSAGE
+
+<!--
+EXERCISE TODO #3: Replace this comment with the introduction message for this
+exercise. This message can span multiple paragraphs if necessary.
+-->
+
+## COMPLETION MESSAGE
+
+<!--
+EXERCISE TODO #4: Replace this comment with a completion message for this
+exercise, or delete the COMPLETION MESSAGE heading and this comment if you do
+not need a completion message.
+-->
 
 <hr>
 
@@ -132,7 +132,7 @@ entire comment.
 If you do not have a command to associate with this task, delete the COMMAND
 heading above this comment as well as this comment and the code block below it.
 -->
-```PowerShell
+```
 # Replace this line with the PowerShell command, shell command, or text to type.
 # If this command is anything other than PowerShell or PowerShellWithUI, remove
 # the "PowerShell" label at the beginning of this code block.

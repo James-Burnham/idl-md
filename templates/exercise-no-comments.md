@@ -2,6 +2,10 @@
 
 # New Exercise
 
+>LODSProperties
+>* IntroductionUri =
+>* CompletionUri = 
+
 ## INTRODUCTION MESSAGE
 
 
@@ -9,10 +13,6 @@
 ## COMPLETION MESSAGE
 
 
-
->LODSProperties
->* IntroductionUri =
->* CompletionUri = 
 
 <hr>
 
